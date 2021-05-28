@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item></item>
+        <item>Tableau de bord</item>
+        <item>Mon profil</item>
+        <item>Messages</item>
+        <item>Contact</item>
+        <item>Se deconnecter</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_close</item>
+        <item>@drawable/ic_dashboard</item>
+        <item>@drawable/ic_account</item>
+        <item>@drawable/ic_messages</item>
+        <item>@drawable/ic_contact</item>
+        <item>@drawable/ic_logout</item>
+    </array>
+
+</resources>
